@@ -321,6 +321,83 @@ export const PRODUCTS_DATA: DigitalProduct[] = [
 
 export const BLOG_DATA: BlogPost[] = [
   {
+    id: 'blog-2',
+    title: 'Best Civil Engineering Calculator App for Android | Civil Construction Suite',
+    slug: 'best-civil-engineering-calculator-app',
+    category: 'Civil Apps',
+    author: {
+      name: 'Engr. Moawia Husnain',
+      role: 'Proprietor & Lead Developer',
+      avatar: '/buildex-logo.jpg',
+    },
+    publishedAt: '2026-09-28',
+    readTime: '6 min read',
+    excerpt: 'Discover the ultimate civil calculation app with 130+ calculators for concrete, steel weight, land surveying, and cost estimation. Download Civil Calc on Google Play.',
+    content: `
+# Best Civil Engineering Calculator App for Site Engineers & Surveyors (2026 Review)
+
+In modern civil engineering and construction management, accuracy on the job site is everything. Calculating material quantities, concrete volume, steel reinforcement weight, and land surveying elevations manually using paper spreadsheets is not only time-consuming but also prone to costly human errors.
+
+Whether you are a civil site engineer, structural designer, land surveyor, or quantity surveyor (QS), having an all-in-one **civil engineering calculator** on your smartphone can save hours of manual calculation every week.
+
+Enter **Civil Calc: Construction Suite** — a comprehensive civil calculation app engineered specifically for Android devices by Buildex.
+
+---
+
+## Why Civil Calc: Construction Suite is the #1 Civil Engineering App
+
+Unlike single-purpose tools that only estimate concrete or bricks, **Civil Calc: Construction Suite** brings together over 130+ specialized calculators across 13 distinct engineering fields into one unified platform.
+
+> **Application Details:** Civil Construction Suite (Package: \`com.moawiahussnain.civilconstructionsuite\`)
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.moawiahussnain.civilconstructionsuite)
+
+👉 **Direct Play Store Link:** [Download Civil Calc: Construction Suite on Google Play Store](https://play.google.com/store/apps/details?id=com.moawiahussnain.civilconstructionsuite)
+
+---
+
+## Key Features & Engineering Modules
+
+### 1. Construction Material & Quantity Takeoff
+Estimate precise building materials in seconds. The material calculation suite includes:
+- **Concrete Volume Calculator:** Accurately estimate cement bags, coarse aggregate, and sand for slabs, beams, columns, and footings.
+- **Brick & Block Calculator:** Calculate total bricks, mortar volume, and plaster thickness for masonry walls.
+- **Finishes & Paving:** Tile estimators, paint coverage calculations, and road asphalt volumes.
+
+### 2. Structural Steel & Metal Weight Calculator
+Say goodbye to bulky steel tables. Instant weight and cost estimations for:
+- Rebar cutting length, lapping, and bar bending schedule (BBS).
+- Solid round bars, hollow pipes, square tubes, and metal plates.
+- Structural steel sections: I-Beams, H-Beams, C-Channels, and Equal/Unequal Angles.
+
+### 3. Land Surveying & Topographic Tools
+Equipped with complete field surveying formulas:
+- Height of Instrument (HI) and Rise & Fall leveling methods.
+- Bowditch traverse adjustments, latitude, and departure computations.
+- Earthwork cut-and-fill volume estimation for road and site excavation.
+
+### 4. Foundation Design & Geotechnical Soil Mechanics
+- Soil bearing capacity using Meyerhof and Terzaghi equations.
+- Isolated, combined, strap, strip, raft, and pile foundation settlement calculations.
+- Soil mechanics calculations: Moisture content, dry density, USCS classification, and permeability.
+
+### 5. On-Site Digital Tools (Offline Utilities)
+- **Digi Level & Compass:** Instant slope inclination measurement for site supervision.
+- **Unit Converter:** Convert length, area, volume, stress (MPa to PSI), force, and pressure effortlessly.
+- **PDF BOQ Report Generator:** Generate detailed estimation reports and export direct PDF summaries to present to clients or project directors.
+
+---
+
+## Google Play Store Verification & Security
+- **Developer:** Buildex (DUNS 31-239-5963 | FBR Reg: 3620307463467)
+- **Founder & Proprietor:** Engr. Moawia Husnain (BS Civil Engineering | MSc Construction Management UET Lahore)
+- **Official Contact:** moawiahussnain5@gmail.com
+- **Package Name:** \`com.moawiahussnain.civilconstructionsuite\`
+    `,
+    image: 'https://images.unsplash.com/photo-1541888946425-d0fbb186a5b3?auto=format&fit=crop&w=1200&q=80',
+    featured: true,
+  },
+  {
     id: 'blog-1',
     title: 'Google Play Store App Publishing & Developer Policy Compliance Guide (2026)',
     slug: 'play-store-app-publishing-policy-guide',
