@@ -64,13 +64,15 @@ export function Hero() {
           transition={{ duration: 0.7, delay: 0.3 }}
           className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4"
         >
-          <Link
-            href="/pricing"
-            className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 rounded-2xl bg-gradient-to-r from-blue-600 to-cyan-500 hover:from-blue-500 hover:to-cyan-400 text-white font-semibold text-sm shadow-xl shadow-blue-600/25 hover:shadow-cyan-500/35 hover:scale-[1.02] transition-all duration-200"
+          <a
+            href="https://play.google.com/store/apps/details?id=com.moawiahussnain.civilconstructionsuite"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-7 py-4 rounded-2xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold text-sm shadow-xl hover:scale-[1.02] transition-all duration-200"
           >
-            <span>Start Your Project</span>
+            <span>Civil Construction Suite App</span>
             <ArrowRight className="w-4 h-4" />
-          </Link>
+          </a>
           <Link
             href="/portfolio"
             className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl bg-white hover:bg-slate-100 dark:bg-slate-900/90 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-200 border border-slate-200 dark:border-slate-800 font-semibold text-sm backdrop-blur-xl shadow-sm transition-all duration-200"
